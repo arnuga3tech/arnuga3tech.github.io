@@ -1,0 +1,9 @@
+<div class="app-details-container">
+    {% for app in site.data.arnuga3tech.appDetails %}
+        <a href="{{ app.url }}">
+            <div class="app-details-title">{{ app.name }}</div>
+            <div class="app-details-subtitle">{{ app.description }}</div>
+            <img class="app-details-image" src="{{ site.baseurl }}/{{ app.image }}" alt="libre-idc-app-screenshot"/>
+        </a>
+    {% endfor %}
+</div>

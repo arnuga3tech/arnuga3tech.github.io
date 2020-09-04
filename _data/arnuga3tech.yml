@@ -1,0 +1,10 @@
+
+logo: assets/images/logo.png
+name: arnuga3tech
+
+appDetails:
+    - name: Libre IDC
+      description: Insulin Dose Calculator (IDC) for Abbott FreeStyle Libre / LibreLink
+      url: /libre-idc
+      googlePlay:
+      image: assets/images/libre-idc-hand.png

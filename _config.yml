@@ -1,0 +1,11 @@
+url: https://akiservice.co.uk
+lang: en_GB
+logo: /assets/images/logo+text_1.png
+
+social:
+  name: AKI Service Maintenance
+  links:
+    - https://www.facebook.com/AKIServiceMaintenance
+    
+sass:
+  style: compressed
