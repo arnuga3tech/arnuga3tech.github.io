@@ -2,6 +2,7 @@
 layout: index
 title: arnuga3tech
 description:
+permalink: /libre-idc/
 ---
 
 <div class="content">
