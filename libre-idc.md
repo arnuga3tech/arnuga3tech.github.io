@@ -1,7 +1,6 @@
 ---
 layout: index
-title: arnuga3tech
-description:
+title: Libre IDC
 permalink: /libre-idc/
 ---
 
